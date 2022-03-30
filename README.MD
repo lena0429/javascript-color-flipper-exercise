@@ -1,5 +1,5 @@
 # JavaScript Exercise 1 - Color Flipper
-## Original repo can be found <a href="https://github.com/john-smilga/javascript-basic-projects">here</a>
+#### Original repo can be found <a href="https://github.com/john-smilga/javascript-basic-projects">here</a>.
 
 ### What is DOM?
 The Document Object Model (DOM) is an application programming interface (API) for valid HTML and well-formed XML documents. 
